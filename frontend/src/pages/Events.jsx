@@ -1,5 +1,6 @@
 // frontend/src/pages/Events.jsx
 import React from "react";
+import "./Events.css";
 
 const Events = () => {
   return (

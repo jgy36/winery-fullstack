@@ -1,0 +1,28 @@
+/* frontend/src/pages/Events.css */
+.events {
+  padding: 40px 20px;
+}
+
+.events h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.events ul {
+  list-style: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+.events li {
+  font-size: 1.2rem;
+  padding: 10px;
+  background-color: #fff3e6;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.events li:hover {
+  background-color: #f8d6a4;
+}

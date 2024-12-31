@@ -1,0 +1,26 @@
+/* frontend/src/pages/AboutUs.css */
+.about-us {
+  padding: 40px 0;
+  background-color: #f4f4f4;
+}
+
+.about-us h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.about-us p {
+  text-align: center;
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.about-us img {
+  width: 100%;
+  max-width: 800px;
+  display: block;
+  margin: 40px auto;
+  border-radius: 8px;
+}

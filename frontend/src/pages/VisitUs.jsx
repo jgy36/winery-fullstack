@@ -1,5 +1,6 @@
 // frontend/src/pages/VisitUs.jsx
 import React from "react";
+import "./VisitUs.css";
 
 const VisitUs = () => {
   return (

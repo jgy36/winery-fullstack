@@ -1,0 +1,36 @@
+/* frontend/src/pages/VisitUs.css */
+.visit-us {
+  padding: 40px 20px;
+}
+
+.visit-us h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.visit-us p {
+  text-align: center;
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.visit-us .cta-button {
+  display: block;
+  width: 200px;
+  margin: 40px auto;
+  padding: 15px 0;
+  font-size: 1.2rem;
+  background-color: #8c4b31;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.visit-us .cta-button:hover {
+  background-color: #dcb38f;
+}

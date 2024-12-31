@@ -1,5 +1,6 @@
 // frontend/src/pages/AboutUs.jsx
 import React from "react";
+import "./About.css";
 
 const AboutUs = () => {
   return (
