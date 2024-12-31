@@ -1,0 +1,34 @@
+/* frontend/src/pages/Home.css */
+.home-page {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.home-page h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.home-page p {
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-page .cta-button {
+  padding: 15px 25px;
+  font-size: 1.2rem;
+  background-color: #8c4b31;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.home-page .cta-button:hover {
+  background-color: #dcb38f;
+}
